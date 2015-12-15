@@ -1,5 +1,2 @@
 language: cpp
-compiler:
-- gcc
-- clang
-script: scons
+script: g++ main.cpp
